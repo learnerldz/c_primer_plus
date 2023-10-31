@@ -26,7 +26,7 @@
 	- **运行程序**需要**集成开发环境**(IDE)
 	- **调试**:查找并修复程序错误的过程
 ## 5.编程机制
--  ![1](D:\李东智\Documents\笔记\B图片\Pasted image 20230914170820.png)
+-  ![D:\李东智\Documents\笔记\B图片\Pasted image 20230914170820.png](https://github.com/learnerldz/c_primer_plus/blob/main/Pasted%20image%2020230914170820.png)
 - **源代码文件**:编写程序时, 存储*源代码*(编写的内容)的文本文件
 - **目标代码文件**:存储机器语言代码 (由源代码转换)的文件
 	- 基本名:点号 (.)前面的部分
